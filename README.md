@@ -2,7 +2,7 @@
 
 I'm an app & web software consultant with a background in leadership. I take ideas from concept through to delivery for aspiring startups and enterprise companies.
 
-I primarily work with JavaScript in the form of Node.js, React Native & React.
+I primarily work with TypeScript in the form of Node.js, React Native & React.
 
 <!--
 **WazzaJB/WazzaJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
