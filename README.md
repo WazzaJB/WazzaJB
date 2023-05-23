@@ -1,8 +1,10 @@
 ## Hey, I'm Warren 👋
 
-I'm an app & web software consultant with a background in leadership. I take ideas from concept through to delivery for aspiring startups and enterprise companies.
+I'm currently building the next-generation of API development tools at [@Eject](https://github.com/eject-tech), where I lead engineering and commercial partnerships.
 
-I primarily work with TypeScript in the form of Node.js, React Native & React.
+Eject is the culmination of years of experience shipping tech products and running lean engineering teams that can focus on solutions that matter. Vastly reducing overall effort, margin for error, and time to market. Eject brings these principles and value to a low-code platform where anyone can deliver API solutions more effectively, faster, and with less resource.
+
+Want to know more? Visit our website at [eject.tech](https://eject.tech)
 
 <!--
 **WazzaJB/WazzaJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
